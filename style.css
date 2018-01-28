@@ -13,7 +13,7 @@ h2 {
 }
 
 h3 {
-	font-size: 10px;
+	font-size: 8px;
 }
 
 
@@ -29,7 +29,7 @@ h3 {
 #profile {
   float: right;
   width: 90%;
-   border: 2px solid red;
+   border: 2px solid gray;
     border-radius: 5px;
 }
 
