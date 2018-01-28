@@ -17,6 +17,8 @@ h2 {
 	font-family: Berlin Sans FB Demi, Times New Roman;
 }
 .contact {
+	background-image: url("Brown-Vintage-Background.jpg") no-repeater;
+	background size: cover;
     float:left
     width: 30%;
 }    
