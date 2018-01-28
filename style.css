@@ -4,13 +4,12 @@ body {
 	text-align: center;
 	width: 100%;
 	background-image: url("Brown-Vintage-Background.jpg");
+	background-repeat: no-repeat;
 }
 h1 {
 	font-size: 56px;
-  font-family: Blackoak Std, H, serif;
+  font-family: Blackoak Std, serif;
 	color: #000080;
 }
 
-p {
-  color: red;
-}
+
