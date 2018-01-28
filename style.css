@@ -31,6 +31,7 @@ h3 {
     
 #profile {
 background-image: url("green_mossy_stone_texture_by_emerald_stock-d5mowh0.jpg");
+background size: cover;
   float: right;
   width: 85%;
    border: 2px solid gray;
