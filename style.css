@@ -3,14 +3,14 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
+	background-image: url("Brown-Vintage-Background.jpg");
 }
 h1 {
 	font-size: 56px;
   font-family: Blackoak Std, H, serif;
 	color: #000080;
 }
-background-image:
-url("https://github.com/Hazardous-Malfor.github.io/Brown-Vintage-Background.jpg");
+
 p {
   color: red;
 }
