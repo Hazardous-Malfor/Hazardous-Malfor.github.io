@@ -3,13 +3,18 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 33%;
-	background-image: url("Brown-Vintage-Background.jpg");
-	background-size: cover;
+	background-image: url("Brown-Vintage-Background.jpg") no-repeater;
+	background-size: 100%;
 }
 h1 {
 	font-size: 46px;
   font-family: Blackoak Std, serif;
 	color: #000080;
 }
+
+.address
+    font-size: 36px;
+    
+
 
 
