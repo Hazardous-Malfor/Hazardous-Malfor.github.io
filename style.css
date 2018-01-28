@@ -4,7 +4,7 @@ body {
 	text-align: center;
 	width: 100%;
 	background-image: url("Brown-Vintage-Background.jpg") no-repeater;
-	background-size: 100%;
+	
 }
 h1 {
 	font-size: 46px;
@@ -12,6 +12,10 @@ h1 {
 	color: #000080;
 }
 
+h2 {
+	font-size: 25px;
+	font-family: Berlin Sans FB Demi, Times New Roman;
+}
 .contact {
     float:left
     width: 30%;
