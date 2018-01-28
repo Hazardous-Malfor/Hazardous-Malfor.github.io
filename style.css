@@ -2,12 +2,12 @@ body {
 	height: 100%;
 	margin: 0;
 	text-align: center;
-	width: 100%;
+	width: 33%;
 	background-image: url("Brown-Vintage-Background.jpg");
 	background-size: cover;
 }
 h1 {
-	font-size: 56px;
+	font-size: 46px;
   font-family: Blackoak Std, serif;
 	color: #000080;
 }
