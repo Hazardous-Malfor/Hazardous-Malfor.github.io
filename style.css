@@ -1,17 +1,18 @@
 
 h1 {
-	font-size: 26px;
+	font-size: 16px;
   font-family: Blackoak Std, serif;
 	color: #000080;
 }
 
 h2 {
-	font-size: 25px;
+	font-size: 10px;
 	font-family: Berlin Sans FB Demi, Times New Roman;
+	font-weight: bold;
 }
 
 h3 {
-	font-size: 15px;
+	font-size: 5px;
 }
 
 
