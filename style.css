@@ -1,6 +1,6 @@
 
 h1 {
-	font-size: 46px;
+	font-size: 26px;
   font-family: Blackoak Std, serif;
 	color: #000080;
 }
@@ -9,8 +9,14 @@ h2 {
 	font-size: 25px;
 	font-family: Berlin Sans FB Demi, Times New Roman;
 }
+
+h3 {
+	font-size: 15px;
+}
+
+
 .contact {
-	background-image: url("Brown-Vintage-Background.jpg") no-repeater;
+	background-image: url("Brown-Vintage-Background.jpg");
 	background size: cover;
     float:left
     width: 30%;
