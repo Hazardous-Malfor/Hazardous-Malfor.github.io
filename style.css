@@ -14,13 +14,17 @@ h3 {
 	font-size: 15px;
 }
 
-
-.contact {
-	background-image: url("Brown-Vintage-Background.jpg");
-	background size: cover;
-    float:left
-    width: 30%;
-}    
+#profile {
+  float: right ;
+  width: 80% ;
+}
+#contact {
+  background-image: url("Brown-Vintage-Background.jpg");
+  background size: cover;
+  float: right;
+  width: 20%;
+}
+    
 
 
 
