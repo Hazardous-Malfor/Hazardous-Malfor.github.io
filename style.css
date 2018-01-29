@@ -6,11 +6,10 @@ h1 {
 }
 
 h2 {
-	font-size: 10px;
+	font-size: 26px;
 	font-family: Berlin Sans FB Demi, Times New Roman;
 	font-weight: bold;
-	margin-right: 35px;
-	margin-bottom:-5px;
+	
 }
 
 h3 {
@@ -20,20 +19,11 @@ h3 {
 }
 
 
-#Intro {
+.Intro{
     text-align: center;
 	
 }
     
-#profile {
-background-image: url("green_mossy_stone_texture_by_emerald_stock-d5mowh0.jpg");
-background size: cover;
-  float: right;
-  width: 80%;
-  height: 100%;
-  border: 2px solid gray;
-  border-radius: 5px;
-  font-size: 8px;
-}
+
 
 
