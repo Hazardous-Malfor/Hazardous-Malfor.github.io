@@ -3,6 +3,7 @@ h1 {
 	font-size: 46px;
   	font-family: Tekton Pro, serif;
 	color: #000080;
+	border-bottom-style: double;
 }
 
 h2 {
