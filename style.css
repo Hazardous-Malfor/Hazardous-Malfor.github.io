@@ -6,19 +6,19 @@
     width:34%;
     height:100px
     float:none;
-    background-color:#CCCCCC;
+    background-color:#2F4F4F;
 }
 .header-left {
     width:33%;
     height:100px
     float:left;
-    background-color:#ABC123;
+    background-color:#2F4F4F;
 }
 .header-right-contact {
     width:33%;
     height:100px
     float:right;
-    background-color:#123456;
+    background-color:#2F4F4F;
 }
 
 
