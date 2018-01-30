@@ -30,10 +30,15 @@ h4 {
 
 }
 .Intro{
-    text-align: center;
+    text-align: left;
 	
 }
-    
+.pic{ float: center;
+}
+
+.contact{
+	float: left;
+}
 .date{
 	float: right;
 }
