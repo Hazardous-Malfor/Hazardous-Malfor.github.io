@@ -39,20 +39,20 @@ h4 {
     overflow: auto;
 }
 
-#header-left {
+.header-left {
     font-size: 56px;
     color: #08a3d9;
     width: 33%;
     float: left;
 }
 
-#header-middle-pic {
-    width: 33%px;
+.header-middle-pic {
+    width: 33%;
     margin-left: auto;
     margin-right: auto;
 }
 
-#header-right-contact {
+.header-right-contact {
     float: right;
     width: 33%;
     
