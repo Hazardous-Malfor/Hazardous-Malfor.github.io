@@ -3,20 +3,20 @@
     height:100px;
 }
 .header-middle-pic {
-    width:960px;
+    width:34%;
     height:50px
     margin:0 auto;
     float:none;
     background-color:#CCCCCC;
 }
 .header-left {
-    width:auto;
-    height:50px
+    width:33%;
+    height:100px
     float:none;
     background-color:#ABC123;
 }
 .header-right-contact {
-    width:auto;
+    width:33%;
     height:100px
     float:none;
     background-color:#123456;
