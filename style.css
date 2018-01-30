@@ -30,7 +30,9 @@ h4 {
 
 }
 .intro{
+    font-size: 46px;
     text-align: left;
+    font-weight: bold;
 	
 }
 .pic{ text-align: center;
