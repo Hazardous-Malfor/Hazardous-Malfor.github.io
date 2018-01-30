@@ -40,7 +40,7 @@ h4 {
 }
 
 .contact{
-	float: left;
+	text-align: left;
 }
 .date{
 	float: right;
