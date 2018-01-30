@@ -29,6 +29,10 @@ h4 {
 	
 
 }
+
+.top{
+	border-bottom-style: double;
+}
 .intro{
     font-size: 46px;
     text-align: left;
