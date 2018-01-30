@@ -29,23 +29,38 @@ h4 {
 	
 
 }
-
-.top{
-	border-bottom-style: double;
-}
-.intro{
-    font-size: 46px;
-    text-align: left;
-    font-weight: bold;
-    border-bottom-style: double;
-	
-}
-.pic{ text-align: center;
+#header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    background-color: #fafafa;
+    height: 55px;
+    border-bottom: 1px solid #d3d3d3;
+    overflow: auto;
 }
 
-.contact{
-	text-align: left;
+#header-left {
+    font-size: 24pt;
+    color: #08a3d9;
+    width: 100px;
+    float: left;
 }
+
+#header-middle-pic {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header-right-contact {
+    float: right;
+    width: 300px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+
+
 .date{
 	float: right;
 }
