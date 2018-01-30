@@ -1,23 +1,28 @@
-
-
-
-.header-left {
-    font-size: 46px;
-    color: #2C3539;
-    width: 33%;
-    float: left;
-    margin-bottom: 0px;
+.header {
+    width:100%;
+    height:100px;
 }
-
 .header-middle-pic {
-    width: 33%;
-   
+    width:960px;
+    height:50px
+    margin:0 auto;
+    float:none;
+    background-color:#CCCCCC;
+}
+.header-left {
+    width:auto;
+    height:50px
+    float:none;
+    background-color:#ABC123;
+}
+.header-right-contact {
+    width:auto;
+    height:100px
+    float:none;
+    background-color:#123456;
 }
 
-.header-right-contact {
-    float: right;
-    width: 33%;
-   }
+
 
 
 
