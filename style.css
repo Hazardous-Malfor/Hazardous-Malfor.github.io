@@ -29,19 +29,14 @@ h4 {
 	
 
 }
-.header {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 25px;
-    background-color: red;
 
-}
 
 .header-left {
     font-size: 46px;
     color: #2C3539;
     width: 33%;
     float: left;
+    margin-bottom: 0px;
 }
 
 .header-middle-pic {
@@ -53,8 +48,7 @@ h4 {
 .header-right-contact {
     float: right;
     width: 33%;
-    text-align: left;
-}
+   }
 
 
 
