@@ -12,6 +12,10 @@ header h1 {
   font-size: 46px;
 } 
 
+
+header h6 {
+  font-size: 8px;
+}
 .jumbotron  {
   border: 1px solid #000;
   margin: 2px;
@@ -19,6 +23,3 @@ header h1 {
   padding: 30px;
 }
 
-media-body{
-  font-size: 8px;
-}
