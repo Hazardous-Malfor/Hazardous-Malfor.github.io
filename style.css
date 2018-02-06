@@ -24,6 +24,8 @@ header h5 {
   margin: 2px;
   text-align: left;
   padding: 30px;
+  background-color: #F1C40F;
+  border-radius: 15px 50px;
 }
 
 .jumbotron h1 {
@@ -32,6 +34,8 @@ header h5 {
 
 .date {
   text-align: right;
+  font-size: 18px;
+  font-weight; bold;
   
 }
 
